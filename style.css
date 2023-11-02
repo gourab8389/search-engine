@@ -89,7 +89,7 @@ form button {
 
 @media only screen and (max-width: 600px) {
     body {
-        background-image: url(images/background.jpg);
+        background-image: url(images/phone\ background.jpg);
     }
     h1 {
         text-align: center;
